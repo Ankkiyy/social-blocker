@@ -1,7 +1,7 @@
 !
-! Title: 1Hosts (Lite)
-! Description: List for blocking pesky ads, trackers, and malware. Balanced version: set & forget, doesn't hamper user experience.
-! Version: 1.0.23.43
+! Title: Ankit Hosts
+! Description: List for blocking socials, doesn't hamper user experience.
+! Version: 1.0
 
 ||facebook.com^
 ||www.facebook.com^
