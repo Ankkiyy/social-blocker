@@ -24,12 +24,8 @@
 ||youtube.com^
 ||www.youtube.com^
 ||m.youtube.com^
-||whatsapp.com^
-||web.whatsapp.com^
 ||telegram.org^
 ||web.telegram.org^
-||discord.com^
-||discordapp.com^
 ||tumblr.com^
 ||www.tumblr.com^
 ||twitch.tv^
